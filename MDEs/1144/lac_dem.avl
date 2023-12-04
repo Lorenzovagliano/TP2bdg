@@ -1,0 +1,537 @@
+/3.1
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	31
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x02
+	ClassType:	0x02
+	FieldNames:	3
+	Symbols:	4
+	Class:	65
+	Class:	66
+	Class:	67
+	Class:	68
+	Class:	69
+	Class:	70
+	Class:	71
+	Class:	72
+	Class:	73
+	Class:	74
+	Class:	75
+	Class:	76
+	Class:	77
+	Class:	78
+	Class:	79
+	StdDevs:	1.00000000000000
+	NullSym:	80
+	NullValues:	84
+	StatValues:	85
+	LegendExts:	86
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Value"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+	Child:	21
+	Child:	25
+	Child:	29
+	Child:	33
+	Child:	37
+	Child:	41
+	Child:	45
+	Child:	49
+	Child:	53
+	Child:	57
+	Child:	61
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0x100
+	Green:	0x8200
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0x2900
+	Green:	0x9f00
+	Blue:	0x1700
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0x5900
+	Green:	0xbc00
+	Blue:	0x3500
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.17
+	Color:	18
+	Outline:	1
+	OutlineColor:	19
+	OutlineWidth:	0.10000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Red:	0x8d00
+	Green:	0xda00
+	Blue:	0x5d00
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.21
+	Color:	22
+	Outline:	1
+	OutlineColor:	23
+	OutlineWidth:	0.10000000000000
+	BgColor:	24
+)
+
+(TClr.22
+	Red:	0xc300
+	Green:	0xf700
+	Blue:	0x8c00
+)
+
+(TClr.23
+)
+
+(TClr.24
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.25
+	Color:	26
+	Outline:	1
+	OutlineColor:	27
+	OutlineWidth:	0.10000000000000
+	BgColor:	28
+)
+
+(TClr.26
+	Red:	0xc500
+	Green:	0xeb00
+	Blue:	0x7d00
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Red:	0xc900
+	Green:	0xdf00
+	Blue:	0x6e00
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.33
+	Color:	34
+	Outline:	1
+	OutlineColor:	35
+	OutlineWidth:	0.10000000000000
+	BgColor:	36
+)
+
+(TClr.34
+	Red:	0xcd00
+	Green:	0xd200
+	Blue:	0x6000
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.37
+	Color:	38
+	Outline:	1
+	OutlineColor:	39
+	OutlineWidth:	0.10000000000000
+	BgColor:	40
+)
+
+(TClr.38
+	Red:	0xc600
+	Green:	0xbb00
+	Blue:	0x5300
+)
+
+(TClr.39
+)
+
+(TClr.40
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.41
+	Color:	42
+	Outline:	1
+	OutlineColor:	43
+	OutlineWidth:	0.10000000000000
+	BgColor:	44
+)
+
+(TClr.42
+	Red:	0xb900
+	Green:	0x9e00
+	Blue:	0x4800
+)
+
+(TClr.43
+)
+
+(TClr.44
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.45
+	Color:	46
+	Outline:	1
+	OutlineColor:	47
+	OutlineWidth:	0.10000000000000
+	BgColor:	48
+)
+
+(TClr.46
+	Red:	0xad00
+	Green:	0x8200
+	Blue:	0x3d00
+)
+
+(TClr.47
+)
+
+(TClr.48
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.49
+	Color:	50
+	Outline:	1
+	OutlineColor:	51
+	OutlineWidth:	0.10000000000000
+	BgColor:	52
+)
+
+(TClr.50
+	Red:	0xa100
+	Green:	0x6600
+	Blue:	0x3200
+)
+
+(TClr.51
+)
+
+(TClr.52
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.53
+	Color:	54
+	Outline:	1
+	OutlineColor:	55
+	OutlineWidth:	0.10000000000000
+	BgColor:	56
+)
+
+(TClr.54
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.55
+)
+
+(TClr.56
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.57
+	Color:	58
+	Outline:	1
+	OutlineColor:	59
+	OutlineWidth:	0.10000000000000
+	BgColor:	60
+)
+
+(TClr.58
+	Red:	0xc948
+	Green:	0xc33b
+	Blue:	0xff00
+)
+
+(TClr.59
+)
+
+(TClr.60
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.61
+	Color:	62
+	Outline:	1
+	OutlineColor:	63
+	OutlineWidth:	0.10000000000000
+	BgColor:	64
+)
+
+(TClr.62
+	Name:	"Transparent"
+)
+
+(TClr.63
+)
+
+(TClr.64
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.65
+	Label:	"0 - 100"
+	MaxNum:	100.00000000000000
+	Precision:	-3
+)
+
+(LClass.66
+	Label:	"100 - 200"
+	MinNum:	100.00000000000000
+	MaxNum:	200.00000000000000
+	Precision:	-3
+)
+
+(LClass.67
+	Label:	"200 - 300"
+	MinNum:	200.00000000000000
+	MaxNum:	300.00000000000000
+	Precision:	-3
+)
+
+(LClass.68
+	Label:	"300 - 400"
+	MinNum:	300.00000000000000
+	MaxNum:	400.00000000000000
+	Precision:	-3
+)
+
+(LClass.69
+	Label:	"400 - 500"
+	MinNum:	400.00000000000000
+	MaxNum:	500.00000000000000
+	Precision:	-3
+)
+
+(LClass.70
+	Label:	"500 - 750"
+	MinNum:	500.00000000000000
+	MaxNum:	750.00000000000000
+	Precision:	-3
+)
+
+(LClass.71
+	Label:	"750 - 1000"
+	MinNum:	750.00000000000000
+	MaxNum:	1000.00000000000000
+	Precision:	-3
+)
+
+(LClass.72
+	Label:	"1000 - 1500"
+	MinNum:	1000.00000000000000
+	MaxNum:	1500.00000000000000
+	Precision:	-3
+)
+
+(LClass.73
+	Label:	"1500 - 2000"
+	MinNum:	1500.00000000000000
+	MaxNum:	2000.00000000000000
+	Precision:	-3
+)
+
+(LClass.74
+	Label:	"2000 - 3000"
+	MinNum:	2000.00000000000000
+	MaxNum:	3000.00000000000000
+	Precision:	-3
+)
+
+(LClass.75
+	Label:	"3000 - 4000"
+	MinNum:	3000.00000000000000
+	MaxNum:	4000.00000000000000
+	Precision:	-3
+)
+
+(LClass.76
+	Label:	"4000 - 5000"
+	MinNum:	4000.00000000000000
+	MaxNum:	5000.00000000000000
+	Precision:	-3
+)
+
+(LClass.77
+	Label:	">5000"
+	MinNum:	5000.00000000000000
+	MaxNum:	8000.00000000000000
+	Precision:	-3
+)
+
+(LClass.78
+	Label:	"Below Sea Level"
+	MinNum:	-5000.00000000000000
+	Precision:	-3
+)
+
+(LClass.79
+	IsNoData:	1
+	Label:	"< 0"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.80
+	Color:	81
+	Outline:	1
+	OutlineColor:	82
+	OutlineWidth:	0.10000000000000
+	BgColor:	83
+)
+
+(TClr.81
+	Name:	"Transparent"
+)
+
+(TClr.82
+)
+
+(TClr.83
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.84
+)
+
+(NameDict.85
+)
+
+(GLegExt.86
+	BrightnessThemeName:	"Mena_hillshd"
+	MinBrightness:	20.00000000000000
+	MaxBrightness:	80.00000000000000
+	ZScale:	1.00000000000000
+)
+
